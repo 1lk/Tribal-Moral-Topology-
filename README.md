@@ -2378,3 +2378,12 @@ Best for all and best for me
 (Together now)
 (Best for all.. best for me)
 (Oh-oh)
+
+
+https://suno.com/song/6e6e212f-3acc-4066-85f1-63d97a713830?sh=9WUX2xCjWMSj3ND0
+
+https://youtu.be/pDnZHh5cFjQ
+
+https://twitter.com/ilkeryoldas/status/2004864103316422769?s=20
+
+Lₚᵣₒⱼ(M) = 𝔼₍w∼μ₎[ d(fₜ(w), Dᴹ(gᴹ(eᴹ(m(w))))) ] ; M* ∈ argmin₍N∈𝒢₎ Lₚᵣₒⱼ(N) 
